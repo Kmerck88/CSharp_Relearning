@@ -72,9 +72,6 @@ Here are some of the resources I will be using:
 
 - [Official C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
-- [Pluralsight](https://www.pluralsight.com/)
-- [Stack Overflow](https://stackoverflow.com/)
-- [Reddit r/csharp](https://www.reddit.com/r/csharp/)
 
 ## Contributing
 
