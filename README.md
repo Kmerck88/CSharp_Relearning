@@ -48,23 +48,23 @@ To run the exercises and projects in this repository, you will need the followin
 
 I will update this section with the exercises and my progress as I complete them:
 
+ - **Console**:
+  - [x] Basic Console Applications
+  - [x] Reading Input from Console
+  - [x] Writing Output to Console
+ 
 - **Strings**:
-  - [ ] String Manipulation
-  - [ ] String Interpolation
-  - [ ] String Formatting
-  - [ ] Substrings and Splitting
+  - [x] String Manipulation
+  - [x] String Interpolation
+  - [x] String Formatting
+  - [x] Substrings and Splitting
 
 - **Numbers**:
-  - [ ] Arithmetic Operations
-  - [ ] Working with Integers and Floats
+  - [x] Arithmetic Operations
+  - [x] Working with Integers and Floats
+  - [x] Parsing and Converting Numbers
   - [ ] Math Functions (e.g., Math.Pow, Math.Sqrt)
-  - [ ] Parsing and Converting Numbers
 
-- **Console**:
-  - [ ] Reading Input from Console
-  - [ ] Writing Output to Console
-  - [ ] Formatting Console Output
-  - [ ] Basic Console Applications
 
 ## Resources
 
